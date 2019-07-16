@@ -1,0 +1,44 @@
+body{
+    font-family: helvetica;
+    size: 100%
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.bg-nav {
+    background-color: royalblue;
+}
+
+.footer-bg {
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: royalblue;
+    color: white;
+    position: absolute;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+ul {
+    font-family: monospace; 
+}
+
+.list {
+    list-style: square;
+}
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "simple_website",
+  "version": "0.0.1",
+  "description": "simple website test",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jshint": "^2.10.2",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fenikz31/simple-website.git"
+  },
+  "keywords": [
+    "website",
+    "test",
+    "DIY"
+  ],
+  "author": "fenikz31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fenikz31/simple-website/issues"
+  },
+  "homepage": "https://github.com/Fenikz31/simple-website#readme"
+}
